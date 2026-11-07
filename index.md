@@ -1,7 +1,7 @@
 # Digital Library
 Selamat Datang di Perpustakaan Digital
-# Nama   : Rahma Dynar Amalya
-# NIM    : 13040124140113
+## Nama   : Rahma Dynar Amalya
+## NIM    : 13040124140113
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
 1. [Ebook_01](ebook/Ebook_01.pdf) – Rahma Dynar (2026) 
